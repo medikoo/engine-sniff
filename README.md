@@ -1,6 +1,7 @@
 # engine-sniff
 ## Engine detection utilities
-### Last resort when feature detection is not enough
+
+Last resort when feature detection is not enough
 
 ### Usage
 
