@@ -1,0 +1,24 @@
+{
+  "name": "engine-sniff",
+  "version": "0.1.0",
+  "description": "Engine detection utilities",
+  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "keywords": [
+    "browser",
+    "engine",
+    "detect",
+    "detection",
+    "sniff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/engine-sniff.git"
+  },
+  "scripts": {
+    "test": "node ./node_modules/tad/bin/tad"
+  },
+  "devDependencies": {
+    "tad": "~0.1.21"
+  },
+  "license": "MIT"
+}
